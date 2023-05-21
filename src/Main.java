@@ -3,6 +3,9 @@ import java.util.*;
 
 
 public class Main {
+
+
+    //Question - for a given string convert each of the first letter of each word to uppercase
     public static String toUppercase(String str){
         StringBuilder sb =  new StringBuilder("");
         //firstly we will add first letter of string in capital form
